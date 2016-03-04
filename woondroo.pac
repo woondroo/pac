@@ -14,7 +14,7 @@ var domains = {
 	"wikipedia.org": 1,
 	"youtube.com": 1,
 	"ytimg.com": 1,
-	"icloud.com": 1,
+	"icloud.com": 1
 };
 
 var direct = 'DIRECT;';
